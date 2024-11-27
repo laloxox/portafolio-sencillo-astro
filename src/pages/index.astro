@@ -1,12 +1,12 @@
 ---
 import Layout from '@/layouts/Layout.astro';
 
-import Experience from '@/components/Experience.astro';
-import Education from '@/components/Education.astro';
-import Proyects from '@/components/Proyects.astro';
-import Hero from '@/components/Hero.astro';
-import Skills from '@/components/Skills.astro';
-import About from '@/components/About.astro';
+import Experience from '@/components/sections/Experience.astro';
+import Education from '@/components/sections/Education.astro';
+import Proyects from '@/components/sections/Proyects.astro';
+import Hero from '@/components/sections/Hero.astro';
+import Skills from '@/components/sections/Skills.astro';
+import About from '@/components/sections/About.astro';
 import KeyboardManager from '@/components/KeyboardManager.astro'
 
 ---
@@ -20,9 +20,16 @@ import KeyboardManager from '@/components/KeyboardManager.astro'
 		<Proyects />
 		<Skills />
 	</main>
+
 	<KeyboardManager />
 </Layout>
 
 <style>
 	
+	main {
+		padding: 7rem;
+		margin: auto;
+		width: 100%;
+	}
+
 </style>

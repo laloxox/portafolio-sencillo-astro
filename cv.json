@@ -1,28 +1,28 @@
     {
         "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "image": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
+        "name": "Eduardo Rodriguez",
+        "label": "Desarrollador web jr",
+        "image": "https://github.com/laloxox",
+        "email": "lalopx555@gmail.com",
+        "phone": "776 106 6436",
         "url": "https://johndoe.com",
         "summary": "A summary of John Doe…",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Col La Estacion",
+            "postalCode": "73180",
+            "city": "Ahuazotepec Pue",
+            "countryCode": "Mex",
+            "region": "Mexico"
         },
         "profiles": [{
-            "network": "Twitter",
-            "username": "john",
-            "url": "https://twitter.com/john"
+            "network": "X",
+            "username": "LaloPixi",
+            "url": "https://x.com/LaloPixi"
         }]
         },
         "work": [{
-        "name": "Company",
-        "position": "President",
+        "name": "Autofletes Franco S.A de C.v",
+        "position": "Monitoreo y Logistica",
         "url": "https://company.com",
         "startDate": "2013-01-01",
         "endDate": "2014-01-01",
