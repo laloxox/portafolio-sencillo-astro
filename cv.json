@@ -2,7 +2,7 @@
         "basics": {
         "name": "Eduardo Rodriguez",
         "label": "Desarrollador web jr",
-        "image": "https://github.com/laloxox",
+        "image": "https://avatars.githubusercontent.com/u/66185073?s=400&u=e1765b392d4cc3b713fd15aa86363d31092d791c&v=4",
         "email": "lalopx555@gmail.com",
         "phone": "776 106 6436",
         "url": "https://johndoe.com",
@@ -23,9 +23,9 @@
         "work": [{
         "name": "Autofletes Franco S.A de C.v",
         "position": "Monitoreo y Logistica",
-        "url": "https://company.com",
-        "startDate": "2013-01-01",
-        "endDate": "2014-01-01",
+        "url": "http://autofletes-franco.com.mx/",
+        "startDate": "2022-10-20",
+        "endDate": "?",
         "summary": "Description…",
         "highlights": [
             "Started the company"
@@ -43,9 +43,9 @@
         ]
         }],
         "education": [{
-        "institution": "University",
+        "institution": "Instituto Tecnologico Superior de Huauchinango",
         "url": "https://institution.com/",
-        "area": "Software Development",
+        "area": "ING en Sistemas Computacionales",
         "studyType": "Bachelor",
         "startDate": "2011-01-01",
         "endDate": "2013-01-01",
@@ -75,7 +75,7 @@
         }],
         "skills": [{
         "name": "Web Development",
-        "level": "Master",
+        "level": "Jr",
         "keywords": [
             "HTML",
             "CSS",
