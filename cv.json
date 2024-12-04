@@ -6,7 +6,7 @@
         "email": "lalopx555@gmail.com",
         "phone": "776 106 6436",
         "url": "https://johndoe.com",
-        "summary": "A summary of John Doe…",
+        "summary": "Resumen de Eduardo",
         "location": {
             "address": "Col La Estacion",
             "postalCode": "73180",
@@ -14,11 +14,18 @@
             "countryCode": "Mex",
             "region": "Mexico"
         },
-        "profiles": [{
-            "network": "X",
-            "username": "LaloPixi",
-            "url": "https://x.com/LaloPixi"
-        }]
+        "profiles": [
+        {
+            "network": "GitHub",
+            "username": "laloxox",
+            "url": "https://github.com/laloxox"
+        },
+        {
+            "network": "Linkedin",
+            "username": "Eduardo Rodriguez",
+            "url": "https://www.linkedin.com/in/eduardo-rodriguéz-1313911bb/"
+        }
+    ]
         },
         "work": [{
         "name": "Autofletes Franco S.A de C.v",
