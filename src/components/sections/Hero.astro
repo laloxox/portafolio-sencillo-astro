@@ -1,6 +1,7 @@
 ---
-import { basics } from '@cv'
-import Section from '@/components/Section.astro'
+import { basics } from "@cv"
+import Section from "@/components/Section.astro"
+import Mail from "@/icons/Mail.astro"
 
 const { name, label, image, location, profiles, phone, email } = basics
 const { city, region } = location
@@ -25,8 +26,8 @@ const { city, region } = location
                             target="_blank"
                             rel="noopener norereferrer"
                             >
-                                <!--Robar icono -->
-                                📧
+                                
+                            <Mail />
                         </a>
                     )
                 }
