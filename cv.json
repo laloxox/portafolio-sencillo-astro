@@ -32,11 +32,22 @@
         "position": "Monitoreo y Logistica",
         "url": "http://autofletes-franco.com.mx/",
         "startDate": "2022-10-20",
-        "endDate": "Actually",
+        "endDate": null,
         "summary": "Monitoreo activo de las unidades de transporte de carga de la empresa mediante sistemas de posicionamiento de terceros en la web, Creación y administración de sitio web de la empresa mediante un generador de sitios web proporcionado por Telmex junto con un Hosting y Dominio, Soporte Tecnico e Informático en oficina, facturación de Tickets, Generacion de reportes en excel, Verificación de la empresa en google maps.",
         "highlights": [
             "Started the company"
         ]
+        },
+        {
+            "name": "Residencia Profesional ITSH",
+            "position": "Manager de redes sociales y Edicion de codigo",
+            "url": "http://autofletes-franco.com.mx/",
+            "startDate": "2020",
+            "endDate": "2021",
+            "summary": "Análisis del flujo del proceso de Residencia Profesional y maquetado del mismo mediante flujogramas, prototipos y mockaps.",
+            "highlights": [
+                "Started the company"
+            ]
         },
         {
             "name": "DigiCeo",
@@ -48,8 +59,7 @@
             "highlights": [
                 "Started the company"
             ]
-            }
-    ],
+        }],
         "volunteer": [{
         "organization": "Organization",
         "position": "Volunteer",
@@ -63,7 +73,7 @@
         }],
         "education": [{
         "institution": "Instituto Tecnologico Superior de Huauchinango",
-        "url": "https://institution.com/",
+        "url": "https://www.huauchinango.tecnm.mx/",
         "area": "ING en Sistemas Computacionales",
         "studyType": "Bachelor",
         "startDate": "2011-01-01",
