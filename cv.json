@@ -102,15 +102,78 @@
         "url": "https://publication.com",
         "summary": "Description…"
         }],
-        "skills": [{
-        "name": "Web Development",
-        "level": "Jr",
-        "keywords": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
-        }],
+        "skills": [
+            {
+                        "name": "HTML",
+                        "level": "Avanzado",
+                        "keywords": [
+                            "Desarollo Web", "Frontend"
+                        ]
+                },
+                {
+                        "name": "CSS",
+                        "level": "Avanzado",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive"
+                        ]
+                },
+                {
+                        "name": "Java Script",
+                        "level": "Intermedio",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive"
+                        ]
+                },
+                {
+                        "name": "Tailwind",
+                        "level": "Intermedio",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive", "CSS Framework"
+                        ]
+                },
+                {
+                        "name": "Bootstrap",
+                        "level": "Intermedio",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive", "CSS Framework"
+                        ]
+                },
+                {
+                        "name": "Node",
+                        "level": "Intermedio",
+                        "keywords": [
+                            "Desarollo Web", "Backend", "Servidor", "JavaScript"
+                        ]   
+                },
+                {
+                        "name": "MySQL",
+                        "level": "Intermedio",
+                        "keywords": [
+                            "Bases de Datos", "Backend", "SQL", "Almacenamiento de Datos"
+                        ]   
+                },
+                {
+                        "name": "Git",
+                        "level": "Avanzado",
+                        "keywords": [
+                            "Control de Versiones", "Colaboracion", "Codigo Fuente"
+                        ]   
+                },
+                {
+                        "name": "GitHub",
+                        "level": "Avanzado",
+                        "keywords": [
+                            "Control de Versiones", "Colaboracion", "Codigo Fuente", "Git"
+                        ]   
+                },
+                {
+                        "name": "Visual Code",
+                        "level": "Avanzado",
+                        "keywords": [
+                            "Desarollo Web", "Backend","Frontend", "Editor de Codigo"
+                        ]   
+            }
+    ],
         "languages": [{
         "language": "English",
         "fluency": "Native speaker"
