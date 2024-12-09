@@ -6,7 +6,7 @@
         "email": "lalopx555@gmail.com",
         "phone": "776 106 6436",
         "url": "https://johndoe.com",
-        "summary": "Soy un joven entusiasta del desarrollo frontend y backend con un año de experiencia y con ganas de aprender y aportar cosas nuevas. Actualmente estoy en búsqueda activa de empleo como desarrollador.",
+        "summary": "Soy un joven entusiasta del Desarrollo Web frontend y backend con un año de experiencia y con ganas de aprender y aportar cosas nuevas. Actualmente estoy en búsqueda activa de empleo como desarrollador.",
         "location": {
             "address": "Col La Estacion",
             "postalCode": "73180",
@@ -39,12 +39,12 @@
         ]
         },
         {
-            "name": "Residencia Profesional ITSH",
-            "position": "Manager de redes sociales y Edicion de codigo",
-            "url": "http://autofletes-franco.com.mx/",
+            "name": "Residencia Profesional en ITSH",
+            "position": "Pasante/Residente",
+            "url": "https://www.huauchinango.tecnm.mx/",
             "startDate": "2020",
             "endDate": "2021",
-            "summary": "Análisis del flujo del proceso de Residencia Profesional y maquetado del mismo mediante flujogramas, prototipos y mockaps.",
+            "summary": "Análisis del flujo del proceso de Residencia Profesional del Instituto asi como el maquetado del mismo mediante flujogramas, prototipos y mockaps.",
             "highlights": [
                 "Started the company"
             ]
@@ -52,7 +52,7 @@
         {
             "name": "DigiCeo",
             "position": "Manager de redes sociales y Edicion de codigo",
-            "url": "http://autofletes-franco.com.mx/",
+            "url": "",
             "startDate": "2019",
             "endDate": "2020",
             "summary": "Análisis y Edición de lineas de código HTML especificas para la mejora de las paginas web en proceso de desarrollo en la empresa, Creé diseños e imagenes para publicaciones de redes sociales y tambien redacte Copywriting para publicaciones de redes sociales de la empresa.",

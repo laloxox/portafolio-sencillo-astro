@@ -72,7 +72,7 @@ const SOCIAL_ICONS: Record<string, any> = {
                 }
             </footer>
         </div>
-        <figure>
+        <figure class="scroll-ml-6 snap-start ...">
             <img src={image} alt={name} />
         </figure>
     </div>
@@ -81,6 +81,7 @@ const SOCIAL_ICONS: Record<string, any> = {
 
 
 <style>
+
     .container {
         display: flex;
         flex-direction: row;
@@ -113,13 +114,15 @@ const SOCIAL_ICONS: Record<string, any> = {
         width: 130px;
         border-radius: 6px;
         border: 1px solid #ddd;
-        transition: all .3s ease;
+        transition: all .4s ease;
     }
 
     img:hover {
         border: 1px solid #ddd;
         border: #777;
-        
+        width: 144px;
+        height: 144px;
+        transition: all .4s ease-in-out;
     }
 
     span {
