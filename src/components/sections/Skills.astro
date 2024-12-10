@@ -1,15 +1,16 @@
 ---
 import Section from "../Section.astro"
 
+
 import { skills } from "@cv"
 ---
 
 <Section title="# Skills">
 
-        <ul>
+        <ul class="transition delay-150 duration-300 ease-in-out ...">
             { 
                 skills.map(({ name, level }) => (
-                <li class="scroll-smooth hover:scroll-auto">
+                <li>
                         
                         <span>{name}</span>
                         

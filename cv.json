@@ -189,14 +189,42 @@
         "name": "Jane Doe",
         "reference": "Reference…"
         }],
-        "projects": [{
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-            "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-        }]
+        "projects": [
+            {
+                "name": "Rick y Morty Characters ",
+                "isActive": "True",
+                "description": "Lista de Personajes de la serie Rick y Morty obtenidos medienate la API de Rick y Morty haciendo uso de herramientas como React y Vite.js",
+                "highlights": [
+                    "Rick Sanchez Hijo de perra cuenta conmigo"
+                ],
+                "url": "https://laloxox.github.io/Personajes-Rick-y-Morty-react/"
+        },
+        {
+                "name": "Autofletes Franco S.A de C.V",
+                "isActive": "True",
+                "description": "Pagina de presentacion de empresa de fletes con transporte de carga pesada",
+                "highlights": [
+                    "Autofletes Franco"
+                ],
+                "url": "http://autofletes-franco.com.mx/"
+        },
+        {
+                "name": "Pokemon Quiz",
+                "isActive": "True",
+                "description": "Quiz con preguntas sobre la serie Pokemon y sus personajes construido con HTML, CSS Y JavaScript",
+                "highlights": [
+                    "Crees saberlo todo sobre pokemon??"
+                ],
+                "url": "https://laloxox.github.io/Pokemon-Quiz/"
+        },
+        {
+                "name": "Portafolio",
+                "isActive": "True",
+                "description": "Primer Portafolio personal",
+                "highlights": [
+                    "Portfolio"
+                ],
+                "url": "https://laloxox.github.io/portafolioeduardo/"
+        }
+    ]
     }

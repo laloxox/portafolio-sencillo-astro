@@ -25,9 +25,9 @@ const { title } = Astro.props;
 
 <style is:global>
 
-	:root {
-		color-scheme: light dark;
-	}
+		:root {
+			color-scheme: light dark;
+		}
 
 
 		html {
@@ -59,7 +59,7 @@ const { title } = Astro.props;
 			list-style: none;
 			margin: 0;
 			padding: 0;
-			scroll-behavior: smooth;
+			animation: fadeIn 0.9s ease-in-out forwards;
 
 		}
 
@@ -69,6 +69,7 @@ const { title } = Astro.props;
 
 
 		h1, h2, h3, h4 {
+			animation: fadeIn 1s ease-in-out forwards;
 			margin: 0;
 			font-family: 
 				system-ui, 
@@ -84,6 +85,16 @@ const { title } = Astro.props;
 				sans-serif;
 		}
 
+		@keyframes fadeIn {
+			0% {
+				opacity: 0;
+			}
+
+			100% {
+				opacity: 1;
+			}
+		}
+
 
 		p {
 			color: #666;
@@ -92,6 +103,7 @@ const { title } = Astro.props;
 			margin: 0;
 			text-wrap: pretty;
 			text-align: justify;
+			animation: fadeIn 1s ease-in-out forwards;
 			
 		}
 

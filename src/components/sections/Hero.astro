@@ -6,6 +6,7 @@ import Phone from "@/icons/Phone.astro"
 import GitHub from "@/icons/GitHub.astro"
 import Linkedin from "@/icons/Linkedin.astro"
 
+
 const { name, label, image, location, profiles, phone, email } = basics
 const { city, region } = location
 
@@ -14,6 +15,8 @@ const SOCIAL_ICONS: Record<string, any> = {
     Linkedin,
 
 }
+
+
 ---
 
 
@@ -72,11 +75,16 @@ const SOCIAL_ICONS: Record<string, any> = {
                 }
             </footer>
         </div>
-        <figure class="scroll-ml-6 snap-start ...">
+        <figure class="image">
             <img src={image} alt={name} />
         </figure>
+
+    
     </div>
+
 </Section>
+
+
 
 
 
@@ -95,6 +103,10 @@ const SOCIAL_ICONS: Record<string, any> = {
         flex-direction: column;
         gap: 0.5rem;
         padding-right: 32px;
+    }
+
+    .image {
+        
     }
 
     h1 {
@@ -124,6 +136,7 @@ const SOCIAL_ICONS: Record<string, any> = {
         height: 144px;
         transition: all .4s ease-in-out;
     }
+
 
     span {
         color: #666;
