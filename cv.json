@@ -106,6 +106,7 @@
             {
                         "name": "HTML",
                         "level": "Avanzado",
+                        "url":"https://html.spec.whatwg.org/multipage/",
                         "keywords": [
                             "Desarollo Web", "Frontend"
                         ]
@@ -113,6 +114,7 @@
                 {
                         "name": "CSS",
                         "level": "Avanzado",
+                        "url":"https://www.w3.org/Style/CSS/",
                         "keywords": [
                             "Desarollo Web", "Frontend", "Diseño Responsive"
                         ]
@@ -120,6 +122,7 @@
                 {
                         "name": "Java Script",
                         "level": "Intermedio",
+                        "url":"https://isp.netscape.com/",
                         "keywords": [
                             "Desarollo Web", "Frontend", "Diseño Responsive"
                         ]
@@ -127,6 +130,7 @@
                 {
                         "name": "Tailwind",
                         "level": "Intermedio",
+                        "url":"https://tailwindcss.com/",
                         "keywords": [
                             "Desarollo Web", "Frontend", "Diseño Responsive", "CSS Framework"
                         ]
@@ -134,6 +138,7 @@
                 {
                         "name": "Bootstrap",
                         "level": "Intermedio",
+                        "url":"https://getbootstrap.com/",
                         "keywords": [
                             "Desarollo Web", "Frontend", "Diseño Responsive", "CSS Framework"
                         ]
@@ -141,6 +146,7 @@
                 {
                         "name": "Node",
                         "level": "Intermedio",
+                        "url":"https://nodejs.org/en/",
                         "keywords": [
                             "Desarollo Web", "Backend", "Servidor", "JavaScript"
                         ]   
@@ -148,6 +154,7 @@
                 {
                         "name": "MySQL",
                         "level": "Intermedio",
+                        "url":"https://www.mysql.com/",
                         "keywords": [
                             "Bases de Datos", "Backend", "SQL", "Almacenamiento de Datos"
                         ]   
@@ -155,6 +162,7 @@
                 {
                         "name": "Git",
                         "level": "Avanzado",
+                        "url":"https://git-scm.com/",
                         "keywords": [
                             "Control de Versiones", "Colaboracion", "Codigo Fuente"
                         ]   
@@ -162,13 +170,15 @@
                 {
                         "name": "GitHub",
                         "level": "Avanzado",
+                        "url":"https://github.com/",
                         "keywords": [
                             "Control de Versiones", "Colaboracion", "Codigo Fuente", "Git"
                         ]   
                 },
                 {
-                        "name": "Visual Code",
+                        "name": "Visual Studio Code",
                         "level": "Avanzado",
+                        "url":"https://code.visualstudio.com/",
                         "keywords": [
                             "Desarollo Web", "Backend","Frontend", "Editor de Codigo"
                         ]   

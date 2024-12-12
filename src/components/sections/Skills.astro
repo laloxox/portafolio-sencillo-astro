@@ -10,10 +10,10 @@ import { skills } from "@cv"
 
         <ul class="transition delay-150 duration-300 ease-in-out ...">
             { 
-                skills.map(({ name, level }) => (
+                skills.map(({ name, level, url }) => (
                 <li>
                         
-                        <span>{name}</span>
+                        <a href={url}><span>{name}</span></a>
                         
                 </li>
                     ))
@@ -22,11 +22,16 @@ import { skills } from "@cv"
 
 
         <button>
-        <a
-        class="inline-block rounded bg-indigo-600 px-8 py-3 text-sm font-medium text-white transition hover:scale-110 hover:shadow-xl focus:outline-none focus:ring active:bg-indigo-500"
-        href="/src/CV-Eduardo.pdf" download>
-        Download CV
-        </a>
+            <a
+                class="group relative inline-block text-sm font-medium text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+                href="/src/CV-Eduardo.pdf" download
+            >
+            <span
+                class="absolute inset-0 translate-x-0 translate-y-0 bg-indigo-600 transition-transform group-hover:translate-x-0.5 group-hover:translate-y-1.5"
+            ></span>
+            <span class="relative block border border-current bg-white px-8 py-3"> Download CV    
+            </span>
+            </a>
         </button>
 </Section>
 
@@ -38,16 +43,16 @@ import { skills } from "@cv"
     }
 
     li { 
-        border-radius: 6px;
+        border-radius: 40px;
         background: #eee;
         color: black;
         font-size: .70rem;
-        font-weight: 500;
+        font-weight: 550;
         padding: 0.3rem 0.7rem;
     }
 
     ul li {
-        margin: 1px;
+        margin: 2px;
         text-align: center;
         align-items: flex-start;
         transition: linear 0.5s;
@@ -55,12 +60,21 @@ import { skills } from "@cv"
 
     ul li:hover {
         color: rgb(55, 59, 65);
-        background-color: #6ff5de;
+        background-color: #97f2d7;
     }
 
     button {
         display: flex;
         gap: 25px;
         margin-top: 25px;
+        border-radius: 10%;
+        
     }
+
 </style>
+
+
+
+
+
+
