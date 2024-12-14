@@ -1,25 +1,20 @@
 ---
 import Section from "../Section.astro"
 
-
-
 import { skills } from "@cv"
 ---
 
 <Section title="# Skills">
 
         <ul class="transition delay-150 duration-300 ease-in-out ...">
-            { 
-                skills.map(({ name, level, url }) => (
-                <li>
-                        
-                        <a href={url}><span>{name}</span></a>
-                        
-                </li>
+                { 
+                    skills.map(({ name, level, url }) => (
+                    <li> 
+                        <a href={url}><span>{name}</span></a>      
+                    </li>
                     ))
-            }
+                }
         </ul>
-
 
         <button>
             <a
@@ -27,9 +22,9 @@ import { skills } from "@cv"
                 href="/src/CV-Eduardo.pdf" download
             >
             <span
-                class="absolute inset-0 translate-x-0 translate-y-0 bg-indigo-600 transition-transform group-hover:translate-x-0.5 group-hover:translate-y-1.5"
-            ></span>
-            <span class="relative block border border-current bg-white px-8 py-3"> Download CV    
+                class=" rounded-md absolute inset-0 translate-x-0 translate-y-0 bg-indigo-600 transition-transform group-hover:translate-x-0.5 group-hover:translate-y-1.5">
+            </span>
+            <span class="rounded-md relative block border border-current bg-white px-8 py-3"> Download CV    
             </span>
             </a>
         </button>
