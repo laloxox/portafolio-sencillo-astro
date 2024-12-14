@@ -17,7 +17,7 @@ import { education } from "@cv"
                     <h4>{area}</h4>
                     <p>Start Date:{startDate}</p>
                     <p>{endDate}</p>
-                    <a>{url}</a>
+                    <a href={url}><h5>{url}</h5></a>
                     
                 </li>
                 )
@@ -30,17 +30,34 @@ import { education } from "@cv"
 
 <style>
 
+    ul{
+        display: flex;
+        flex-direction: column;
+        text-wrap: wrap;
+
+    }
+
     h3 {
         font-weight: 500;
         color: #111;
     }
-
 
     h4 {
         font-weight: 450;
         color: #222;
         margin-top: 3px;
         margin-bottom: 8px;
+    }
+
+    h5 {
+        font-weight: 40            0;
+        color: #222;
+        margin-top: 3px;
+        margin-bottom: 8px;
+    }
+
+    h5:hover {
+        color: rgb(85, 169, 141);
     }
 
     

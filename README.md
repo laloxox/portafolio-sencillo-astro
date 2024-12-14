@@ -1,7 +1,11 @@
 # Astro Starter Kit: Basics
 
 ```sh
-npm create astro@latest -- --template basics
+npm install
+or
+pnpm install
+or 
+bun install
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
@@ -24,7 +28,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   ├── components/
 │   │   └── Card.astro
 │   ├── layouts/
-│   │   └── Layout.astro
+│   │   └── Layout.astro    
 │   └── pages/
 │       └── index.astro
 └── package.json
