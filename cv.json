@@ -205,7 +205,7 @@
                 "isActive": "True",
                 "description": "Lista de Personajes de la serie Rick y Morty obtenidos medienate la API de Rick y Morty haciendo uso de herramientas como React y Vite.js",
                 "highlights": [
-                    "Rick Sanchez Hijo de perra cuenta conmigo"
+                    "Hecho con Vite.js y React"
                 ],
                 "url": "https://laloxox.github.io/Personajes-Rick-y-Morty-react/"
         },
@@ -214,7 +214,7 @@
                 "isActive": "True",
                 "description": "Pagina de presentacion de empresa de fletes con transporte de carga pesada",
                 "highlights": [
-                    "Autofletes Franco"
+                    "Pagina echa con un generador de sitios estaticos proporcionado por Telmex para Autofletes Franco"
                 ],
                 "url": "http://autofletes-franco.com.mx/"
         },
@@ -223,7 +223,7 @@
                 "isActive": "True",
                 "description": "Quiz con preguntas sobre la serie Pokemon y sus personajes construido con HTML, CSS Y JavaScript",
                 "highlights": [
-                    "Crees saberlo todo sobre pokemon??"
+                    "Crees saberlo todo sobre pokemon?"
                 ],
                 "url": "https://laloxox.github.io/Pokemon-Quiz/"
         },
@@ -232,7 +232,7 @@
                 "isActive": "True",
                 "description": "Primer Portafolio personal",
                 "highlights": [
-                    "Portfolio"
+                    "Primer Portfolio que pude hacer basado en otro diseño"
                 ],
                 "url": "https://laloxox.github.io/portafolioeduardo/"
         }
