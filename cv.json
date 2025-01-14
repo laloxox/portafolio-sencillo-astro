@@ -201,22 +201,22 @@
         }],
         "projects": [
             {
-                "name": "Rick y Morty Characters ",
-                "isActive": "True",
-                "description": "Lista de Personajes de la serie Rick y Morty obtenidos medienate la API de Rick y Morty haciendo uso de herramientas como React y Vite.js",
-                "highlights": [
-                    "Hecho con Vite.js y React"
-                ],
-                "url": "https://laloxox.github.io/Personajes-Rick-y-Morty-react/"
-        },
-        {
                 "name": "Autofletes Franco S.A de C.V",
                 "isActive": "True",
-                "description": "Pagina de presentacion de empresa de fletes con transporte de carga pesada",
+                "description": "Pagina de presentacion de empresa de fletes con transporte de carga pesada ",
                 "highlights": [
-                    "Pagina echa con un generador de sitios estaticos proporcionado por Telmex para Autofletes Franco"
+                    "Sitio web estatico hecho para una empresa de transporte de carga pesada desarrollado con Astro.js y Tailwindcss"
                 ],
-                "url": "http://autofletes-franco.com.mx/"
+                "url": "https://autofletesfranco.com/"
+        },
+        {
+                "name": "Rick y Morty Characters",
+                "isActive": "True",
+                "description": "Lista de Personajes de la serie Rick y Morty obtenidos medienate la API de Rick y Morty",
+                "highlights": [
+                    "Pagina web echa con Vite.js y React"
+                ],
+                "url": "https://laloxox.github.io/Personajes-Rick-y-Morty-react/"
         },
         {
                 "name": "Pokemon Quiz",
